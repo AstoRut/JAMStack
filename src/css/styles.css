@@ -59,3 +59,7 @@ button {
   width: 60%;
   padding: 1rem;
 }
+
+.pictures img {
+  max-width: 50%;
+}
