@@ -63,6 +63,19 @@ button {
   max-width: 50%;
 }
 
+figure {
+  margin: auto;
+}
+
+figcaption {
+  background-color: #fff;
+  color: #888;
+  font-style: italic;
+  padding: 1px;
+  text-align: center;
+  font-size: 13px;
+}
+
 @media (min-width: 480px) {
   .stories {
     display: grid;
